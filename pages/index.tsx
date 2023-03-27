@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               {`Showing how easy it is to setup a custom mint site with Decent.`}
             </div>
             <div className='px-10 w-72 space-y-1 p-2 border border-white rounded-md'>
-              <div className='grid grid-cols-2'><p>Price:</p><p className='text-right'>0.002 ETH</p></div>
+              <div className='grid grid-cols-2'><p>Price:</p><p className='text-right'>0.001 ETH</p></div>
               <div className='grid grid-cols-2'><p>Minted:</p><p className='text-right'>{contractMints} / 10</p></div>
             </div>
           </div>
